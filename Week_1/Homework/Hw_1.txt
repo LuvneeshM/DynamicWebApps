@@ -1,0 +1,18 @@
+Dynamic Web Dev
+Web App: Albert
+
+Design Weaknesses: 
+	- In order to add a class/look at classes, there is a pop up that does not scroll with the page
+	- There is a blank page as the tab icon
+	- When showing courses in the inital shopping cart, they only show the class code and not the actual class name
+Operation Weakness: 
+	- Inability to access classes and schedule at the same time
+	- A forced 20 minute renewal else you are logged out if there is inactivity
+
+Why I like it:
+	While there are many flaws both from an operation and design standpoint, it is still a strong website for being able to accomplish it's ultimate purpose.
+
+Improvements:
+	The user experience of the web application is not entirely straightfoward and defintely has a learning curve to it. I would primarily focus on improving the overall design and layout to make it more intutive while keeping in mind the flaws and wants of the students.
+
+https://docs.google.com/presentation/d/1iQ00UEgMAJjt6muwsAz1yj3zmnCb3T60ZjQ0WdDOMLw/edit?usp=sharing

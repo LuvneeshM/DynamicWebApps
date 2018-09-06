@@ -1,0 +1,8 @@
+Dynamic Web Application
+
+1LL: Javascript Refresher with focus on object oriented and closures.
+Name: A re-introduction to JavaScript (JS tutorial)
+URL: https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+Section: Custom Objects and Closures
+
+I skimmed through majority of the tutorial but slowed down and read through the Custom Objects and Closures sections. The Custom Objects section clearly showed through examples of people objects the significance of object oriented programming. I am able to clearly see the connection of how this be used to create multiple objects of similar but different traits. For example if I want to construct a set or array of users, I can have a single Person object and create various instances of this object, 1 for each user. In addition the Object.prototype proves a clever way to keep code efficient by allowing for objects of the same type to share common functions. While going through this tutorial I found I want to look further into the concept of Closures and try to further understand their importance.The tutorial helped to show syntactically what is a closure, but  only touched at a high level of how they can be used within larger scale programs.
